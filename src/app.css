@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, span, ul, li, button, input, div {
+  font-family: 'Nunito', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  outline: 0;
+  background: none;
+  border: none;
+}
+
+button:focus {
+  outline: 0;
+  background: none;
+  border: none;
+}
